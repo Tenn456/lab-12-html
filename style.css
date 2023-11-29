@@ -1,0 +1,34 @@
+p {
+    color: #0000FF;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+
+h1 {
+    color: #008000;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: #888888;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#myDiv {
+    border: 1px solid black;
+    background-color: salmon;
+}
+
+.myClass {
+    background-color: gold;
+}
